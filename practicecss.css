@@ -1,0 +1,380 @@
+/* #first{
+	font-family: sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: bold;
+	color: hotpink;
+	background-color: red;
+
+}
+
+div{
+	color:black;
+	border: 2px,solid,black;
+	height: 100px;
+	text-align: center;
+	background-color: linear-gradient(red,yellow,blue)
+
+} 
+
+#one{
+	border: 2px, solid, black;
+	width: 100px;
+	border-radius: 50%;
+	background: linear-gradient(green,red);
+}
+
+#two{
+	border: 2px, solid, black;
+	border-radius: 30px;
+	background: linear-gradient(green,red);
+
+}
+
+#three{
+	border: 2px, solid, black;
+	border-radius: 30px 15px 45px 0;
+	background: linear-gradient(green,red);
+
+}
+
+#four{
+	border: 2px, solid, black;
+	border-radius: 45px 0 45px 0;
+	background: linear-gradient(green,red);
+
+}
+
+#five{
+	border: 2px, solid, black;
+	width: 300px;
+	border-radius: 0 50px 50px 25px;
+	background: linear-gradient(green,red);
+}
+
+#six{
+	border: 8px, groove, black;
+	border-radius: 0 25px 0 0;
+	background: linear-gradient(green,red);
+}
+
+#seven{
+	border: 2px, solid, black;
+	border-radius: 150px 0 0 0;
+	background: linear-gradient(green,red);
+}
+
+#eight{
+	height: 300px;
+	width: 30%;
+	border: 2px,solid, black;
+	background: linear-gradient(rgba(255, 0, 0, 0.441),rgba(0, 128, 0, 0.491)),url(something.png);
+	
+}
+
+#1{
+	justify-content: center;
+} 
+
+div{
+	display: inline-block;
+}
+#parent{
+	text-align: center;
+	display: block;
+}
+
+#one{
+	border: 2px solid black;
+	height: 50px;
+	width: 600px;
+}
+
+#two{
+	border: 2px solid black;
+	height: 50px;
+	width: 580px;
+}
+
+#three{
+	border: 2px solid black;
+	height: 50px;
+	width: 560px;
+}
+
+#four{
+	border: 2px solid black;
+	height: 50px;
+	width: 540px;
+}
+
+#five{
+	border: 2px solid black;
+	height: 50px;
+	width: 520px;
+}
+
+#six{
+	border: 2px solid black;
+	height: 50px;
+	width: 500px;
+}
+
+#seven{
+	border: 2px solid black;
+	height: 50px;
+	width: 480px;
+}
+
+#eight{
+	border: 2px solid black;
+	height: 50px;
+	width: 460px;
+}
+
+#nine{
+	border: 2px solid black;
+	height: 50px;
+	width: 440px;
+}
+
+#ten{
+	border: 2px solid black;
+	height: 50px;
+	width: 420px;
+}
+
+#eleven{
+	border: 2px solid black;
+	height: 50px;
+	width: 400px;
+}
+
+#twelwe{
+	border: 2px solid black;
+	height: 50px;
+	width: 380px;
+}
+
+#therteen{
+	border: 2px solid black;
+	height: 50px;
+	width: 360px;
+}
+
+#fourteen{
+	border: 2px solid black;
+	height: 50px;
+	width: 340px;
+}
+
+#fifteen{
+	border: 2px solid black;
+	height: 50px;
+	width: 320px;
+}
+
+#sixteen{
+	border: 2px solid black;
+	height: 50px;
+	width: 300px;
+}
+
+#seventeen{
+	border: 2px solid black;
+	height: 50px;
+	width: 280px;
+}
+
+#eighteen{
+	border: 2px solid black;
+	height: 50px;
+	width: 260px;
+}
+
+#nineteen{
+	border: 2px solid black;
+	height: 50px;
+	width: 240px;
+}
+
+#twentee{
+	border: 2px solid black;
+	height: 50px;
+	width: 220px;
+} */
+
+/* *{
+	margin: 0;
+	padding: 0;
+	
+}
+
+#header{
+	height: 100px;
+	width: 100%;
+	border: 2px solid black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+#nav{
+	height: 100px;
+	width: 100%;
+	border: 2px solid black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#main{
+	height: 450px;
+	width: 100%;
+	border: 1px solid black;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+#content{
+	height: 98%;
+	width: 14%;
+	border: 2px solid black;
+}
+
+#mcontent{
+	height: 98%;
+	width: 70%;
+	border: 2px solid black;
+}
+
+#rcontent{
+	height: 98%;
+	width: 14%;
+	border: 2px solid black;
+}
+
+
+
+#footer{
+	height: 100px;
+	width: 100%;
+	border: 2px solid black;
+}
+
+
+
+#parent{
+	height: 800px;
+	width: 100%;
+	
+}
+
+
+#l{
+	height: 97.5%;
+	width: 20%;
+	background-color: green;
+	margin: 10px 10px 10px 0px;
+}
+
+#m{
+	height: 100%;
+	width: 60%;
+}
+
+#t{
+	height: 30%;
+	width: 100%;
+	background-color: green;
+}
+
+#b{
+	height: 70%;
+	width: 100%;
+}
+
+#bt{
+	height: 50%;
+	width: 100%;
+	display: flex;
+}
+
+#btl{
+	height: 100%;
+	width: 50%;
+	background-color: yellow;
+}
+
+#btr{
+	height: 100%;
+	width: 50%;
+	background-color: red;
+}
+
+#bb{
+	height: 50%;
+	width: 100%;
+	display: flex;
+}
+
+#bbl{
+	height: 100%;
+	width: 50%;
+	background-color: red;
+}
+
+#bbr{
+	height: 100%;
+	width: 50%;
+	background-color: yellow;
+}
+
+#r{
+	height: 800px;
+	width: 20%;
+}
+
+#rt{
+	height: 30%;
+	width: 100%;
+	background-color: red;
+}
+
+#rb{
+	height: 70%;
+	width: 100%;
+	background-color: green;
+} */
+
+/* .a {
+	height: 100px;
+	width: 20%;
+	background-color: aquamarine;
+	animation: first 8s ease-in infinite normal;
+
+}
+
+@keyframes first {
+	0% {
+		margin-left: 0;
+	}
+	
+	25%{
+		margin-top: 0;
+		margin-left: 80%;
+	}
+
+	75%{
+		margin-left: 80%;
+		margin-top: 20%;
+
+	}
+
+	100%{
+		margin-left: 0;
+		margin-top: 20%;
+	}
+} */
